@@ -1762,3 +1762,13 @@ Apr 23, 2024 8:04:38 PM RunShop3 authenticateUser
 INFO: User attempting to login
 Apr 23, 2024 8:08:13 PM RunShop3 main
 INFO: Application Ended
+May 03, 2024 9:13:57 AM RunShop3 main
+INFO: Application Started
+May 03, 2024 9:13:57 AM AuthenticateUser authenticateUser
+INFO: User attempting to login
+May 03, 2024 9:21:26 AM RunShop3 main
+INFO: Application Ended
+May 03, 2024 9:21:41 AM RunShop3 main
+INFO: Application Started
+May 03, 2024 9:21:41 AM AuthenticateUser authenticateUser
+INFO: User attempting to login
